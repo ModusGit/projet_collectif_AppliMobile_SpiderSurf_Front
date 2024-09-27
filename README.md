@@ -5,6 +5,6 @@ Conception des maquettes sur Figma pour visualiser les principales fonctionnalit
 Architecture MVVM (Model, ViewModel et View) pour la partie front-end. Cela permet de séparer les responsabilités, rendant le code plus structuré et plus facile à maintenir.<br> 
 Utilisation de Swift avec XCode et conception de l'UI en SwiftUI. Parsing des données et intégration d'une API externe.<br> 
  <br> 
-Swift - Framework SwiftUI - Figma <br>
+SWIFT - FRAMEWORK SWIFT UI - FIGMA <br>
 <br>
 <i>Projet collectif ADA Tech School 2024 - crédits Bertrand, Cindy et Maud</i>
